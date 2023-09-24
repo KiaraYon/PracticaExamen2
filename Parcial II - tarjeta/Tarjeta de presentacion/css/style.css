@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    text-align: center;
+  }
+
+.card__img--logo{
+    width: 260px;
+    border-radius: .5em;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+}
+
+.contact__img--phone{
+    width: 10px;
+    height: 20px;
+}
+
+.contact__img--email{
+    width: 20px;
+    height: 15px;
+}
+
+.contact__img--website{
+    width: 18px;
+    height: 19px;
+}
+
+a{
+  display: block;
+  padding: 3px;
+  text-decoration: none;
+  color: inherit;
+}
+
+  .card {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+  }
+  
+  .name {
+    font-size: 28px; 
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .job-title {
+    font-size: 18px;
+    color: #999;
+  }
+  
+  .contact {
+    font-size: 14px;
+    color: #666;
+  }
